@@ -41,7 +41,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/adrianhajdin/ai_mock_interviews.git
+git clone https://github.com/AnkitaKumari-14/Interview-Prep.git
 cd ai_mock_interviews
 Installation
 
@@ -75,3 +75,4 @@ Running the Project
 
 npm run dev
 Open http://localhost:3000 in your browser to view the project.
+
