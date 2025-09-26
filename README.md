@@ -76,3 +76,6 @@ Running the Project
 npm run dev
 Open http://localhost:3000 in your browser to view the project.
 
+
+link to study :https://www.youtube.com/watch?v=8GK8R77Bd7g&list=LL&index=10&t=9699s
+
